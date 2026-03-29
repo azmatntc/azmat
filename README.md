@@ -1,6 +1,6 @@
 # azmat
 django-svelte-saas-starter
-# [Project Name]
+# [Django + Svelte + AWS | Production SaaS platform]
 
 ![CI](https://img.shields.io/github/workflow/status/username/repo/CI)
 ![Django](https://img.shields.io/badge/Django-4.x-green)
@@ -9,11 +9,13 @@ django-svelte-saas-starter
 ![AWS](https://img.shields.io/badge/AWS-Deployed-yellow)
 
 ## 🎯 Overview
-One-paragraph business problem + your solution approach.
+I design scalable, cloud-native web applications with robust backends and modern frontends.
 
 ## 🏗️ Architecture
-[Insert simple diagram: SVG or PNG showing data flow]
-
+**Backend:** Django, Django REST Framework, PostgreSQL, Celery
+- **Frontend:** Svelte, SvelteKit, Vite, Tailwind CSS
+- **Cloud/DevOps:** AWS (EC2, RDS, S3), Docker, GitHub Actions, Terraform
+- **Tools:** Git, Linux, Nginx, Redis
 **Stack:**
 - Backend: Django + Django REST Framework + PostgreSQL + Celery
 - Frontend: Svelte + Vite + Tailwind CSS
