@@ -37,7 +37,7 @@ One-paragraph business problem + your solution approach.
 ### Local Development
 ```bash
 # Clone
-git clone https://github.com/username/repo.git
+git clone https://github.com/azmat/repo.git
 cd repo
 
 # Start services
